@@ -1,2 +1,3 @@
 # Ruel-Aguilar
-This is my new repository and I am a beginner on this.
+Hello, this is Ruel Aguilar's repository!
+I am a beginner to this platform. I hope you can help me with this
